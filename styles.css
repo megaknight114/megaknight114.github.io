@@ -468,12 +468,6 @@ h3 {
   margin: 26px 0 0;
 }
 
-.questions-contact {
-  max-width: 780px;
-  margin: 12px 0 0;
-  color: var(--muted);
-}
-
 .two-column {
   display: grid;
   grid-template-columns: 160px minmax(0, 1fr);
