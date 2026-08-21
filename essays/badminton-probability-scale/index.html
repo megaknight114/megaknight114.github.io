@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Can Badminton Skill Be Put on a Probability Scale? — Zonghuan Xu</title>
+    <meta
+      name="description"
+      content="A compact model linking multidimensional badminton ability, match win probabilities, and the rarity of elite performance."
+    />
+    <link rel="canonical" href="https://megaknight114.github.io/essays/badminton-probability-scale/" />
+    <link rel="alternate" hreflang="en" href="https://megaknight114.github.io/essays/badminton-probability-scale/" />
+    <link rel="alternate" hreflang="x-default" href="https://megaknight114.github.io/essays/badminton-probability-scale/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Can Badminton Skill Be Put on a Probability Scale?" />
+    <meta property="og:description" content="From a multivariate ability hypothesis to a win-probability scale and a population-tail curve." />
+    <meta property="og:url" content="https://megaknight114.github.io/essays/badminton-probability-scale/" />
+    <meta property="og:image" content="https://megaknight114.github.io/assets/essays/badminton-population-curve.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Can Badminton Skill Be Put on a Probability Scale?" />
+    <meta name="twitter:description" content="A compact model of badminton ability, match odds, and population tails." />
+    <meta name="twitter:image" content="https://megaknight114.github.io/assets/essays/badminton-population-curve.png" />
+    <link rel="stylesheet" href="../../styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="../../">Zonghuan Xu</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="../../#about">about</a>
+        <a href="../../#essays">essays</a>
+        <a href="../../#publications">publications</a>
+      </nav>
+    </header>
+
+    <main class="page essay-page">
+      <header class="essay-header">
+        <p class="essay-meta">Essay · August 2026 · 5 min read</p>
+        <h1>Can Badminton Skill Be Put on a Probability Scale?</h1>
+        <p class="essay-deck">
+          A compact model linking multidimensional ability, match win probabilities,
+          and the rarity of elite performance.
+        </p>
+        <div class="essay-controls">
+          <a class="essay-download" href="../../assets/essays/badminton-probability-scale.pdf">download PDF with appendix</a>
+        </div>
+      </header>
+
+      <article class="essay-article">
+        <p class="essay-opening">Badminton skill is obviously multidimensional. One player may rely on speed and attack, another on control, anticipation, and consistency. Yet match outcomes eventually compress these different profiles into a one-dimensional ordering: one player is more likely to beat another. This essay asks whether that ordering can be turned into a compact probability scale.</p>
+
+        <h2>From many abilities to one latent scale</h2>
+
+        <p>For player <em>i</em>, let <em>X<sub>i</sub></em> denote a multidimensional ability state: fitness, strength, speed, consistency, mentality, tactics, and other relevant components. Let <em>S<sub>i</sub> = f(X<sub>i</sub>)</em> denote the aggregate ability that determines long-run competitive outcomes.</p>
+
+        <p>Within a reasonably homogeneous training population, suppose these component effects are approximately additive on a suitable scale, only moderately dependent, and not dominated by any single factor. The central limit theorem then motivates a normal approximation for aggregate ability:</p>
+
+        <div class="essay-equation" aria-label="S is approximately normally distributed with mean mu S and variance sigma S squared">
+          S ≈ N(μ<sub>S</sub>, σ<sub>S</sub><sup>2</sup>).
+        </div>
+
+        <p>This does not imply that elite players share the same template. Equal aggregate ability may arise from very different combinations of underlying strengths.</p>
+
+        <h2>Defining one level through match probability</h2>
+
+        <p>Let <em>L<sub>i</sub></em> be player <em>i</em>'s competitive level and <em>ΔL = L<sub>A</sub> - L<sub>B</sub></em> the gap between two players. To give the unit a direct competitive meaning, approximate a game by 21 independent rallies and define a one-level gap to mean that the stronger player wins the game with probability <strong>2/3</strong>.</p>
+
+        <p>Under this simplified binomial model, a one-level gap corresponds to winning an individual rally with probability about <strong>54.6%</strong>. To make level gaps additive, define them through rally odds. If <em>p</em> is the stronger player's rally-win probability and <em>κ ≈ 0.1859</em>, then</p>
+
+        <div class="essay-equation" aria-label="Delta L equals one over kappa times the natural logarithm of p divided by one minus p">
+          ΔL = (1/κ) ln[p/(1-p)].
+        </div>
+
+        <div class="essay-table-wrap" role="region" aria-label="Competitive meaning of level gaps" tabindex="0">
+          <table class="essay-table">
+            <caption>What a level gap means in the simplified model</caption>
+            <thead>
+              <tr>
+                <th scope="col">Level gap</th>
+                <th scope="col">Rally win</th>
+                <th scope="col">Game win</th>
+                <th scope="col">Best-of-three win</th>
+                <th scope="col">Typical score</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>1</td><td>54.6%</td><td>66.7%</td><td>74.1%</td><td>21:17.4</td></tr>
+              <tr><td>2</td><td>59.2%</td><td>80.5%</td><td>90.1%</td><td>21:14.5</td></tr>
+              <tr><td>4</td><td>67.8%</td><td>95.6%</td><td>99.43%</td><td>21:10.0</td></tr>
+              <tr><td>8</td><td>81.6%</td><td>99.95%</td><td>99.99993%</td><td>21:4.7</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p>A small rally-level advantage can therefore coexist with a stable match-level ordering. Repetition turns a slight edge into a reliable outcome.</p>
+
+        <h2>From individual comparisons to a population curve</h2>
+
+        <p>If competitive level is a linear transformation of aggregate ability, its population distribution remains approximately normal. Let <em>r</em> be the fraction of people at or above a given level and let <em>Φ</em> denote the standard normal cumulative distribution function. Set the median stable young male recreational player to level 0, and use an empirical scale of 6.8 levels per standard deviation. The resulting curve is</p>
+
+        <div class="essay-equation essay-equation-primary" aria-label="L of r equals 6 point 8 times the inverse standard normal distribution of one minus r, minus 15">
+          L(r) = 6.8 Φ<sup>-1</sup>(1-r) - 15.
+        </div>
+
+        <figure class="essay-figure">
+          <img
+            src="../../assets/essays/badminton-population-curve.png"
+            alt="Competitive badminton level rises as the fraction of the population reaching that level becomes smaller, with the curve flattening in the extreme tail."
+            width="1078"
+            height="607"
+          />
+          <figcaption>
+            Competitive level against the population fraction at or above that level. The horizontal axis is logarithmic and reversed so that rarer levels appear farther to the right.
+          </figcaption>
+        </figure>
+
+        <p>The curve gives the scale a population interpretation. Under this calibration, the top 0.1% of the full population is around level 6.0, the top 0.01% around level 10.3, the world top 100 around level 22.9, and world No. 1 around level 28.0.</p>
+
+        <h2>Why the model feels plausible</h2>
+
+        <p><strong>Ability gaps shrink near the top.</strong> On a logarithmic population scale, the normal-quantile curve gradually flattens. Each additional tenfold increase in rarity corresponds to a smaller gain in level. As long-run ability gaps contract, short-run state fluctuations matter relatively more.</p>
+
+        <p><strong>Close scores and stable outcomes can coexist.</strong> Elite players may differ only slightly in rally-win probability, yet that edge accumulates over games and repeated matches.</p>
+
+        <p><strong>Rank gaps can greatly exceed ability gaps.</strong> The population density is extremely low in the far tail, so a small increase in competitive level can correspond to a tens- or hundreds-fold change in rank.</p>
+
+        <p><strong>Elite performance need not share one template.</strong> Strength, speed, control, anticipation, and other factors can compensate for one another. The scale constrains only their aggregate competitive result.</p>
+
+        <p class="essay-model-status">The construction is complete as a conceptual model: it moves from multidimensional ability to a win-probability unit, then to a population-level curve and qualitative checks. It is not yet an empirical rating system. The distributional assumptions, the 6.8-level calibration, and the fixed 21-rally approximation remain to be tested against match data.</p>
+      </article>
+
+      <p class="essay-end">Written by Zonghuan Xu · First published August 2026</p>
+    </main>
+
+    <footer class="footer">
+      <span>© 2026 Zonghuan Xu</span>
+    </footer>
+    <!-- Cloudflare Web Analytics -->
+    <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "a31bc1c9d81e4dffaa8da933b2d5972a"}'></script>
+    <!-- End Cloudflare Web Analytics -->
+  </body>
+</html>
