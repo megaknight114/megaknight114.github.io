@@ -413,11 +413,6 @@ h3 {
   font-size: 0.93rem;
 }
 
-.opportunity-note {
-  max-width: 610px;
-  margin-bottom: 0;
-}
-
 .section {
   clear: both;
   padding-top: 42px;
@@ -459,13 +454,36 @@ h3 {
   margin: 0;
 }
 
+.question-body p {
+  margin: 0;
+}
+
+.question-source {
+  margin-top: 9px !important;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .research-question li + li {
   margin-top: 10px;
 }
 
-.research-aim {
+.direction-copy,
+.connect-list {
   max-width: 780px;
-  margin: 26px 0 0;
+}
+
+.direction-copy {
+  margin-bottom: 0;
+}
+
+.connect-list {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+
+.connect-list li + li {
+  margin-top: 12px;
 }
 
 .two-column {
