@@ -1,177 +1,667 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 9 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ]
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 17 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:2430XH10002@m.fudan.edu.cn)
->> /Border [ 0 0 0 ] /Rect [ 259.7856 721.36 378.4839 731.32 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\0722430XH10002\100m\056fudan\056edu\056cn)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 259.7856 721.36 378.4839 731.32 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://megaknight114.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 385.2567 721.36 425.852 731.32 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057megaknight114\056github\056io\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 385.2567 721.36 425.852 731.32 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/megaknight114)
->> /Border [ 0 0 0 ] /Rect [ 432.6248 721.36 458.4544 731.32 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057megaknight114)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 432.6248 721.36 458.4544 731.32 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://scholar.google.com/citations?user=beYykFsAAAAJ&hl=en&oi=ao)
->> /Border [ 0 0 0 ] /Rect [ 465.2272 721.36 522.4308 731.32 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057scholar\056google\056com\057citations\077user\075beYykFsAAAAJ\046hl\075en\046oi\075ao)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 465.2272 721.36 522.4308 731.32 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/search/?query=Xu%2C+Zonghuan&searchtype=author)
->> /Border [ 0 0 0 ] /Rect [ 529.2036 721.36 548.111 731.32 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057search\057\077query\075Xu\0452C\053Zonghuan\046searchtype\075author)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 529.2036 721.36 548.111 731.32 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572604\05613460)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 547.852 530.92 564.3033 540.22 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2604.13460)
->> /Border [ 0 0 0 ] /Rect [ 547.852 530.92 564.3033 540.22 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572608\05604927)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 431.5477 521.12 449.2022 530.42 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2608.04927)
->> /Border [ 0 0 0 ] /Rect [ 431.5477 521.12 449.2022 530.42 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572608\05606262)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 491.8737 511.32 509.5282 520.62 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2608.06262)
->> /Border [ 0 0 0 ] /Rect [ 491.8737 511.32 509.5282 520.62 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572604\05606820)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 112.8135 492.62 130.468 501.92 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2604.06820)
->> /Border [ 0 0 0 ] /Rect [ 112.8135 492.62 130.468 501.92 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572510\05610932)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 164.506 473.92 182.1605 483.22 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2510.10932)
->> /Border [ 0 0 0 ] /Rect [ 164.506 473.92 182.1605 483.22 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057arxiv\056org\057abs\0572511\05612149)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 282.0967 455.22 299.7512 464.52 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2511.12149)
->> /Border [ 0 0 0 ] /Rect [ 282.0967 455.22 299.7512 464.52 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057megaknight114\057DropVLA)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 191.1405 292.64 212.4966 303.62 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 16 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/megaknight114/DropVLA)
->> /Border [ 0 0 0 ] /Rect [ 191.1405 292.64 212.4966 303.62 ] /Subtype /Link /Type /Annot
+/Length 11477
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 403.936 25.92 Tm (Zonghuan Xu - Academic CV - Page 1) Tj T* ET
+Q
+q
+1 0 0 1 47.76 732.32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL 194.35 0 Td (Zonghuan Xu) Tj T* -194.35 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 721.62 cm
+q
+BT 1 0 0 1 0 1.4 Tm 16.129 0 Td 9.7 TL /F1 8.3 Tf .2 .2 .2 rg (Fudan University, School of Mathematical Sciences | ) Tj (2430XH10002@m.fudan.edu.cn) Tj ( | ) Tj (Homepage) Tj ( | ) Tj (GitHub) Tj ( | ) Tj (Google Scholar) Tj ( | ) Tj (arXiv) Tj T* -16.129 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 712.62 cm
+Q
+q
+1 0 0 1 47.76 699.82 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.3 Tm /F2 10.5 Tf 11.8 TL (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 698.42 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 667.72 cm
+q
+BT 1 0 0 1 0 20.05 Tm 9.4 TL /F2 8.15 Tf 0 0 0 rg (Fudan University) Tj /F1 8.15 Tf (, Shanghai, China) Tj  T* (B.S. in Mathematics and Applied Mathematics, Xianghui Plan, School of Mathematical Sciences, 2024-present) Tj  T* (Expected graduation: 2028 | GPA: 3.86 out of 4.00 | Credits completed: 109) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 640.27 cm
+q
+BT 1 0 0 1 0 18.6 Tm 8.75 TL /F2 7.65 Tf .066667 .066667 .066667 rg (Strong Mathematical Background:) Tj /F1 7.65 Tf ( Earned A/A+ \(4.0; A+ is an honors distinction\) in nine mathematics courses: Mathematical Analysis A I-II \(Honors\),) Tj T* (Real Analysis \(Honors\), Numerical Linear Algebra and Optimization \(Honors\), Mathematical Statistics, Advanced Algebra II, Abstract Algebra, Ordinary) Tj T* (Differential Equations, and Elements of Geometry and Topology.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 622.17 cm
+q
+BT 1 0 0 1 0 9.85 Tm 8.75 TL /F2 7.65 Tf .066667 .066667 .066667 rg (AI Background:) Tj /F1 7.65 Tf ( Earned A grades in Algorithms and Data Structures \(Honors\), Artificial Intelligence Fundamentals, Mathematical Foundations of AI, and) Tj T* (Natural Language Processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 612.82 cm
+q
+BT 1 0 0 1 0 1.1 Tm 8.75 TL /F2 7.65 Tf .066667 .066667 .066667 rg (English Proficiency:) Tj /F1 7.65 Tf ( TOEFL iBT 5.5/6.0 \(comparable overall score: 110/120\), 2026.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 593.42 cm
+q
+BT 1 0 0 1 0 10.65 Tm 9.4 TL /F2 8.15 Tf 0 0 0 rg (University of Toronto, St. George Campus) Tj /F1 8.15 Tf (, Toronto, Canada) Tj  T* (Exchange Student, Faculty of Arts & Science, Fall 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 588.22 cm
+Q
+q
+1 0 0 1 47.76 575.42 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.3 Tm /F2 10.5 Tf 11.8 TL (Research Interests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 574.02 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 562.12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.25 Tm /F1 8.15 Tf 9.4 TL (Machine Learning Theory, Continual Learning, Trustworthy AI, Embodied AI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 556.92 cm
+Q
+q
+1 0 0 1 47.76 544.12 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.3 Tm /F2 10.5 Tf 11.8 TL (Selected Publications and Preprints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 542.72 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 531.32 cm
+q
+.121569 .372549 .74902 RG
+n 498.8255 .18125 m 516.5433 .18125 l S
+BT 1 0 0 1 0 1.15 Tm -0.063325 Tw 8.9 TL /F2 7.75 Tf 0 0 0 rg (Xu, Z.) Tj /F1 7.75 Tf ( and Ma, X.* ) Tj /F3 7.75 Tf (From Order to Distribution: A Spectral Characterization of Forgetting in Continual Learning.) Tj /F1 7.75 Tf ( ) Tj /F2 7.75 Tf (Preprint, 2026.) Tj /F1 7.75 Tf ( arXiv:2604.13460. ) Tj .121569 .372549 .74902 rg (arXiv) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 47.76 521.52 cm
+q
+.121569 .372549 .74902 RG
+n 383.7877 .18125 m 401.4422 .18125 l S
+BT 1 0 0 1 0 1.15 Tm 8.9 TL /F2 7.75 Tf 0 0 0 rg (Xu, Z.*) Tj /F1 7.75 Tf ( and Harish, K. ) Tj /F3 7.75 Tf (Optimal Training-Time Scaling in Gradual Adaptation.) Tj /F1 7.75 Tf ( ) Tj /F2 7.75 Tf (Preprint, 2026.) Tj /F1 7.75 Tf ( arXiv:2608.04927. ) Tj .121569 .372549 .74902 rg (arXiv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 511.72 cm
+q
+.121569 .372549 .74902 RG
+n 444.1137 .18125 m 461.7682 .18125 l S
+BT 1 0 0 1 0 1.15 Tm 8.9 TL /F2 7.75 Tf 0 0 0 rg (Xu, Z.*) Tj /F1 7.75 Tf ( ) Tj /F3 7.75 Tf (Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction.) Tj /F1 7.75 Tf ( ) Tj /F2 7.75 Tf (Preprint, 2026.) Tj /F1 7.75 Tf ( arXiv:2608.06262. ) Tj .121569 .372549 .74902 rg (arXiv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 493.02 cm
+q
+.121569 .372549 .74902 RG
+n 65.0535 .18125 m 82.708 .18125 l S
+BT 1 0 0 1 0 10.05 Tm 8.9 TL /F2 7.75 Tf 0 0 0 rg (Xu, Z.) Tj /F1 7.75 Tf (, Zheng, X., Wu, Y., and Ma, X.* ) Tj /F3 7.75 Tf (When Direct Prediction Fails: Evidence from LLM-Based Misinformation Risk Evaluation.) Tj /F1 7.75 Tf ( ) Tj /F2 7.75 Tf (Preprint, 2026.) Tj /F1 7.75 Tf  T* (arXiv:2604.06820. ) Tj .121569 .372549 .74902 rg (arXiv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 474.32 cm
+q
+.121569 .372549 .74902 RG
+n 116.746 .18125 m 134.4005 .18125 l S
+BT 1 0 0 1 0 10.05 Tm -0.102381 Tw 8.9 TL /F2 7.75 Tf 0 0 0 rg (Xu, Z.) Tj /F1 7.75 Tf (, Li, J., Zhao, Y., Zheng, X.*, Ma, X.*, and Jiang, Y.-G. ) Tj /F3 7.75 Tf (DropVLA: An Action-Level Backdoor Attack on Vision-Language-Action Models.) Tj /F1 7.75 Tf ( ) Tj /F2 7.75 Tf (Accepted) Tj T* 0 Tw (at IROS 2026.) Tj /F1 7.75 Tf ( arXiv:2510.10932. ) Tj .121569 .372549 .74902 rg (arXiv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 455.62 cm
+q
+.121569 .372549 .74902 RG
+n 234.3367 .18125 m 251.9912 .18125 l S
+BT 1 0 0 1 0 10.05 Tm 8.9 TL /F1 7.75 Tf 0 0 0 rg (Li, J., Zhao, Y., Zheng, X., ) Tj /F2 7.75 Tf (Xu, Z.) Tj /F1 7.75 Tf (, Li, Y., Ma, X.*, and Jiang, Y.-G.* ) Tj /F3 7.75 Tf (AttackVLA: Benchmarking Adversarial and Backdoor Attacks on) Tj T* (Vision-Language-Action Models.) Tj /F1 7.75 Tf ( ) Tj /F2 7.75 Tf (Preprint, 2025.) Tj /F1 7.75 Tf ( arXiv:2511.12149. ) Tj .121569 .372549 .74902 rg (arXiv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 445.97 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.1 Tm /F1 7.65 Tf 8.75 TL (* Corresponding author\(s\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 441.37 cm
+Q
+q
+1 0 0 1 47.76 428.57 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.3 Tm /F2 10.5 Tf 11.8 TL (Selected Research Contributions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 427.17 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 414.17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.35 Tm /F2 9.15 Tf 10.5 TL (Distributional Theory of Forgetting in Continual Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 404.72 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.1 Tm /F1 7.65 Tf 8.75 TL (Supervisor: Prof. Xingjun Ma | Sole First Author | 2026 | Related manuscript: From Order to Distribution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 386.12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 10.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Reframed continual-learning forgetting under task distributions; derived an exact operator identity and spectral characterization, yielding the leading) Tj T* 8 0 Td (asymptotic rate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 373.82 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.35 Tm /F2 9.15 Tf 10.5 TL (Training-Time Scaling in Gradual Adaptation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 364.37 cm
+q
+BT 1 0 0 1 0 1.1 Tm 8.75 TL /F1 7.65 Tf .2 .2 .2 rg (Research Lead | Sole First & Corresponding Author | 2026 | Related preprint: Optimal Training-Time Scaling in Gradual Adaptation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 345.77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 10.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Reframed an initial holonomy insight into a training-time optimization problem; developed the main theory and proofs, established s_N^* =) Tj T* 8 0 Td (Theta\(N^-1\), designed the experiments, and led the manuscript while mentoring a junior collaborator through technical review and revision.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 333.47 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.35 Tm /F2 9.15 Tf 10.5 TL (Conditional-Query Hypothesis Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 324.02 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.1 Tm /F1 7.65 Tf 8.75 TL (Sole Author | 2026 | Related preprint: Hypothesis Testing with Conditional Queries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 305.42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 10.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Developed the conditional-query testing framework, established an exact learnability criterion, and proved that adaptivity can reduce the required) Tj T* 8 0 Td (number of queries by a tight quadratic factor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 293.12 cm
+q
+.121569 .372549 .74902 RG
+n 143.3805 .20625 m 164.7366 .20625 l S
+BT 1 0 0 1 0 1.35 Tm 10.5 TL /F2 9.15 Tf 0 0 0 rg (Backdoor Safety in VLA Models \() Tj .121569 .372549 .74902 rg (code) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 283.67 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.1 Tm /F1 7.65 Tf 8.75 TL (Supervisor: Prof. Xingjun Ma | Sole First Author | 2025-2026 | Related publication: DropVLA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 265.07 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 10.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Proposed an action-level backdoor framework for VLA models; built the OpenVLA-OFT and LIBERO poisoning and evaluation pipeline; led the) Tj T* 8 0 Td (experiments and paper writing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 252.77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.35 Tm /F2 9.15 Tf 10.5 TL (LLM-Based Misinformation Risk Evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 243.32 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.1 Tm /F1 7.65 Tf 8.75 TL (Supervisor: Prof. Xingjun Ma | Sole First Author | 2025-2026 | Related manuscript: When Direct Prediction Fails) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 224.72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 10.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Led a human-grounded study with 317 participants and eight LLM evaluators, showing that credibility scores predicted human sharing better than) Tj T* 8 0 Td (direct scores and that LLM judgments diverged from human ratings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 220.12 cm
+Q
+q
+1 0 0 1 47.76 207.32 cm
+q
+BT 1 0 0 1 0 1.3 Tm 11.8 TL /F2 10.5 Tf .066667 .066667 .066667 rg (Honors & Funding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 205.92 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 194.42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 1.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Fudan Undergraduate Scholarship \(Zhao Yuanpei Student\), 2026.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 184.82 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 1.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Chonghua Scholarship, School of Mathematical Sciences, 2026.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 175.22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 1.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Fudan Undergraduate Basic Disciplines Scholarship, 2024-2025.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 165.62 cm
+q
+0 0 0 rg
+BT 1 0 0 1 12 1.2 Tm /F1 7.8 Tf 9 TL -8 0 Td (- Fudan Undergraduate Research Funding \(Junzheng Program\), 2025-2026.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 47.76 161.02 cm
+Q
+q
+1 0 0 1 47.76 148.22 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.3 Tm /F2 10.5 Tf 11.8 TL (Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 146.82 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 125.52 cm
+q
+BT 1 0 0 1 0 10.65 Tm 9.4 TL /F1 8.15 Tf 0 0 0 rg (Python, PyTorch, Linux/SSH, Git, Bash, and LaTeX; Transformers/PEFT, W) Tj (&) Tj (B, LoRA/OFT fine-tuning; OpenVLA, LIBERO, and RLDS/TFDS;) Tj T* (LLM evaluation and human-subject data analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 120.32 cm
+Q
+q
+1 0 0 1 47.76 107.52 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 1.3 Tm /F2 10.5 Tf 11.8 TL (Personal Interests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.76 106.12 cm
+q
+.6 w
+1 J
+.466667 .466667 .466667 RG
+n 0 0 m 516.48 0 l S
+Q
+Q
+q
+1 0 0 1 47.76 94.22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.25 Tm /F1 8.15 Tf 9.4 TL (Badminton \(regular technical training and competitive match play\); strategy games.) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 17 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
-  15 0 R 16 0 R ] /Contents 21 0 R /MediaBox [ 0 0 612 792 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/F1 18 0 R
+/F2 19 0 R
+/F3 20 0 R
 >>
 endobj
 18 0 obj
 <<
-/PageMode /UseNone /Pages 20 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 19 0 obj
 <<
-/Author (Zonghuan Xu) /CreationDate (D:20260807114007+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260807114007+08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Zonghuan Xu Academic CV) /Trapped /False
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 20 0 obj
 <<
-/Count 1 /Kids [ 17 0 R ] /Type /Pages
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 21 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4035
+/Author (Zonghuan Xu)
+/CreationDate (D\07220260807114007\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260807114007\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Zonghuan Xu Academic CV)
+/Trapped /False
 >>
-stream
-GauHNgN)%<&q0LUbYsDmOq@%,V:qrGABC-=[M=X7.k+K,L&aW%NLL0'A>\qfH[9Yi72/$<oK"Fb#)4osI86F&*l)/Er\N']?GtLdQlV\7bV7`FNZ#9;Zge2\*P_CCU:N.R)ahlPY%s@"_q%'6P^[">ZeN'f%5!p7N]+i"&aT@d`7%l*@s1eT*ZKC[%jKu;P>Cu*-(bCcGfds4f_?15ngg#EVWqrFQh;q/ZV4J[41`#0\tI?u1'_G=1Ng"U1s'-8BPWod]46?0KR0cWnc6)eL8@U3F/u-=<]%m#&Mm\:0Sea(6`j/-._f[5fqFhas)Q7CB8)E.rtC=f5\;44GM0A_99PA_GO.K=B0jIWiUIJG71af3`r9Gie;e6IqTW53f6-[lO`j7dBRsN(?<l?*#/3g++GE&30#&"ogL@I;0hJ6NTPOnE>eA,>NOW?jBk`c,q8k<@5<ZaD%Yrc2ntDqmpsWmATBh"GjM2C+6e<<s:I?(_IljQWiPAMc]L&&]lOGb`?Ira!\GbiLAlfADI9sU4&Z]8/be\bq!PSVmbnI_afL-'Ff5uf7*gWKfjps:9R9pX%0bMnn9%K4o4.sTPK<JO%fuZq+>RdC/G)itGNJVn:0cB#VcUMUeMSNT5hISWtAgmkp%!gXN[k@#+m9V8p/;Wo:P,I3d^rnJ,<-#`MSj0$E"46/Sjlhe/g;%8kOjhO_VX(a@+p235)=s">%0QP'&3(0S!4-gmlu*6>!D-)j#PFYAYC4Yqc?bpVXE0q*K`11RO1G"-.[)(M%i`R@F*6+aQSEYE3Z.gJh0-#j,DL,gI*?1oSB-Zb,0NFAOW/1F&eqU,!u<KIi?a3%K'[H!iDIh:H%r:fm(@OkNp5H$$#a0oCVOtoK&qPV,M7bq$Da-R!m>T*7c?1k8?Tc.R-#S*Ik#,4I^P&SN\=PWN0/V9J[sZ3F+0.-P:W'UbNk'lp/1ZoT:@hE^(tp:JHS+=-9V6-Z2sQZ'rPIOiD)j!GS<?"E]I2[`^uVPa`O\niGY0RYmGpDL[uM`8*;tNXf)]J"e+(j,"4\Rb.)cBEt6O<_TN;i`ent11)G/O,?LDUGn>^>8qFq+YSnljn1\(ai/B39SORK8SL`;Lmesr+$=Sn'/LW>[aomipM0Rb>4=K],F/C^aj1Ecb)N&?#(=4,-Z2#^WN^',,>qggE*R-T`2'!a4T]_J6OBrQ5*"PE&H&2s&!JZ&2Qo[5<!ogZUaVe9AK!4T6<sH#;m6Y:(fAd!CO=-.+>U+\i\G(YHBp!6Fi+DTfO1E"N^umG\#<^Z'GE5-1.5W]*JDFdLgag6^0i0*)^XU\(\)7DCEncTZ"3l3;O#h]%OjE`_8$ATW>^A1p?>r!Pg5P>b&:[/9F^,(KecO1E9W-[e!i68$c?o!(8:iM!S!]9Tc[[Y5WtQU(ie$0h\cl>MOl[+1b\(u3IAbI<nL8I<c<Juc\5^gm`l>HV*UEltlQ@a"mU\*ZKi]]-$.>XY;CUUKY\^Wp;YCKaAMhpsp1u_V&</s4FDQ?um3*=@VR'-K%8=fNRP?LH?9,E';r:DXTbZ.T8tk$-*T^H?62gkoLC;r'YD)aGd:L(.9=iWVFGX8q*Z=<6Hc<#>f&HCk9Hm)HJRj&C?6^sm0e(8fB#LjOhB<b#R;pB)8A%r?7:`$QE9'%L%,'Vp`AST4?!;';;kpk(K52F!')^*uFV)a%?!SsnH,AV&Mj:#B-eCLM%5]rf%L?5?9C!,br<7e]NkWPg5d_cF")+m05j^.ia?*]$Df#SqWmZI-a-$i$G&JoUC1;Ei!V/_1W$nBfT&pBe]`U%:FF.]pIh7^>YX$;(GDRXZ(rKOs_Sn1a_,%u.Z1Hkudfd&eQ)<Ra;^(X\8r8-"`BIN9^].I[>,_-pn\?LrV"@<iig9!F%uYt48>R<or@E>$',b@7pt-u\oH!F@*OL:HP1U3d^\Zl&E9^Ko=n7<JZ[gKWNRh[51$CQugELp8nH121KX=SdnV)!I$54!QXj_XUX4m6,Pk!bmIIEP9e4pA#Sp-$M9)Z@7fiO+9ML,a`<E:]nSISQtW8'Oi*\*I]Eg;4"e@46;HB;CVeodl25NF:]2m%Z$ls/(09@mbD1]ipi-'f"QYIZTg-,AuJV5H&]2k0I0[7o"E([/t2k[YCE]o1f4.,/&m8^KEY3PI8!q$G^%rMnK5Q/gQp`"0_$2eY^Q(SiHX<jGJUkNr-3j)nS%3X3-4B^I<J*N(otgP3*BBJ%D5;GpVk%>Vq=-%-K/`Wgh"T\/)Y]Bs^5T0EY[VYDc`<S/B<P%PAn?V-s=l(\JM:5([V4DR>M)qpgWFnWV,Q!egEU2LT8p2EgkgQ"1nc46/#>rT4/b8kET(3a(.NCe4X.4$eFN>MCAOgc?QqJD4CD5/<CDf,u"F.bPlT?nE3h&DWPFnOJ>'\Fg<l4]Js2?gNt2\SF+_-'OHX'sPpQ+OZ$A#2Tt:=YnMi-)*.g\-PIdSs;o@E!AO#4c)2M*+`b+W@u/Wa?)oJ7X58lQcnkR?1Rs7Z&k/7]M6)X!$JV;oI]?o;"qK6hYWVdBX9ui,3Cn%E0$&Z&S=j%;he/YgF,G*_a//4G$:6mDiO8pWRgh7i/EcO<`<Q9."7@%+iH]Ia;L>I&DV6"Q&)t[S>:>?<;GUh*61#rDT'-71cKgU1t6tqb%dWL@T.%V0S43O(%UP/c)Q_eJrs"K6fc/8[KApg6E)RS\Qh5[do*M$#-Wu?Y.hBC[1O+gX8]C&(ra"V7-=g@f'A=r!,e!'#?8EO??1Q,Yk'o/nAEPbOLGai%2'KccPlkq33t+aWq9=iZuYcn??^_,5cu*,h:9uL*_%HQ_@^D'0=IX\EpsPrclE]\P>5B:<mc>+9(IAF?\rac^Df'[)$qt?)Z6>1)l"nH?F>9LRA-I1a\>7JM>/u!(^E/L4#/KJWe>i;G:^S&%l&HNeCt_07jEd.t,[2\p=_sQDN9\=50R#X[i?DS3?<,g+4qENWPh!XMjLL(B6YCfk.M'3'D[RHXEt\c!,5L2s&,n1/`,i+d$,5WRhDg\D/*W5GXF;Ntl<reH2\E3<c=j=/57poPFc#1g4)fh[4IHr]6&!,+:d2OZU=CIUSF#Kp%=oD[#k]4c3WkYTf3H6o36h)S>W;[\[+/C6qWdhPu-Y)"oQ5XflP#SL>@ZZZ;J5Mjh5V<j2=)OHVp`Pdj^^b&0:XV5&fsC<U/0gQucH*a"m.G=p!?'b*oV4UMrp^PAn*m+P.2@u.lOdBGW*ZBDBP)%Gj6C*G#_)@aBZDGZ-W$BZPk.7BORJppCG(jC9Jcc1jn([&i:=!(S6^bMkMTSl*WQG?C\#09NT;(\s:b[(q@1/9h.boREY4$4Q?*HQ#eC6?_G:INp<TK)cIf;"D*[9Sr63uD_eNk$RAT22p(@N(^N0WJ2<Whgu3(]M(sH4,^$asC"[Uq?mr:jN=JC'l7"WB$Fo%qTkimIY'JQ,K]cNu95Zg)oHYb@*M7\U&kUQYP@pO4ROtQ_(0'-kA(Y\al*(T9aTkks=>De#MH7Ec0=YGac#Qe'on)h/H0Y2g!a&+kBrXEi6G7R;Via)T<sbTl*ZsVX@Co]_:,4dYh1D\[[n_okQBt8u`\+R^\]jR7NG[kTGWY<q&'X7/`ADdA,l>_C&Sr%.(+@`D2_jbfZ9uQHe1OD4I0AloWa-j#oI<RYP>QSLS*0`&V&XK6gs>ER<0PVn4p`gT-l>lVoSXkeAY-5O&**F;!W.$MdR-GIH,%b1mI#lp9\'I@TY_RuZG'WsDq;f<F)M>BP9%:8$if'V.`I>o4Me]""7Tn">iWS<"<`6Dp5knbqDBqJDS4&UB]k2(K'j$U,&<Ni5=)1WlYIbRQ7$cc08a\U4kVQh'/RP9a5)"0*X75f-i6:]YQ8QPePY[O>e%\p/XO0Ksi3IFOd&/u8kHD)A7d2d%m26L+!f><]]Gn#B*e%4J[X'If^-c5oPs$(n.CB@h>a%"3+nZr^ErZF;:,p/a)2\K=[E:N*/Q?s5f\Q9*s8bu_^-b<nRURdOLq</6Q16U&85H,Sq.Zoj`$fbDEg,F$i=rrMiE[9r~>endstream
 endobj
 xref
 0 22
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000512 00000 n 
-0000000691 00000 n 
-0000000871 00000 n 
-0000001085 00000 n 
-0000001296 00000 n 
-0000001411 00000 n 
-0000001591 00000 n 
-0000001772 00000 n 
-0000001953 00000 n 
-0000002133 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000423 00000 n 
+0000000619 00000 n 
+0000000816 00000 n 
+0000001011 00000 n 
+0000001261 00000 n 
+0000001508 00000 n 
+0000001708 00000 n 
+0000001910 00000 n 
+0000002112 00000 n 
 0000002313 00000 n 
-0000002494 00000 n 
-0000002683 00000 n 
-0000002973 00000 n 
-0000003043 00000 n 
-0000003332 00000 n 
-0000003393 00000 n 
+0000002514 00000 n 
+0000002716 00000 n 
+0000002923 00000 n 
+0000014454 00000 n 
+0000014509 00000 n 
+0000014617 00000 n 
+0000014730 00000 n 
+0000014846 00000 n 
 trailer
 <<
-/ID 
-[<df525d970cbdb7c30cd420701e12e7d7><df525d970cbdb7c30cd420701e12e7d7>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 19 0 R
-/Root 18 0 R
 /Size 22
+/Root 1 0 R
+/Info 21 0 R
+/ID [ <df525d970cbdb7c30cd420701e12e7d7> <df525d970cbdb7c30cd420701e12e7d7> ]
 >>
 startxref
-7520
+15171
 %%EOF
